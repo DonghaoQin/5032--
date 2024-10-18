@@ -26,7 +26,7 @@
         <button type="submit">Send Email</button>
       </form>
   
-      <div v-if="statusMessage" class="status-message">
+      <div v-if="statusMessage" classs="status-message">
         {{ statusMessage }}
       </div>
     </div>
